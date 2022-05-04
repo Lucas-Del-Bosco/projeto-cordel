@@ -51,12 +51,12 @@ section.imagem {
     background-color: rgb(54, 54, 54);
     color: white;
     background-size: cover;
-    background-position: right center;
     box-shadow: inset 6px 6px 10px rgba(0, 0, 0, 0.363);
     background-attachment: fixed;
 }
 section#bg-1 {
     background-image: url('imagens/background001.jpg');
+    background-position: right center;
 }
 section#bg-2 {
     background-image: url('imagens/background002.jpg');
